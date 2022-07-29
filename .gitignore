@@ -51,6 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Build Folders
+# Build Folders and Files
 build/
 out/
+compile_commands.json
